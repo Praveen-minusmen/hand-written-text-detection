@@ -3,7 +3,8 @@
 
 This is a simple and responsive web application for extracting handwritten or printed text from images using the [OCR.space API](https://ocr.space/OCRAPI). Users can upload an image, select a language, and extract the text using OCR technology.
 
-![Demo Screenshot]([Screenshot 2025-05-06 195310.png](https://github.com/Praveen-minusmen/hand-written-text-detection/blob/main/Screenshot%202025-05-06%20195310.png) 
+![Demo Screenshot]
+<img src="https://github.com/Praveen-minusmen/hand-written-text-detection/blob/main/Screenshot%202025-05-06%20195310.png?raw=true" alt="Handwritten Text Extraction Screenshot" style="max-width: 100%; height: auto;" />
 
 ---
 
