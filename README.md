@@ -1,4 +1,3 @@
-# hand-written-text-detection
 # 📝 Handwritten Text Extraction Web App
 
 This is a simple and responsive web application for extracting handwritten or printed text from images using the [OCR.space API](https://ocr.space/OCRAPI). Users can upload an image, select a language, and extract the text using OCR technology.
@@ -19,7 +18,7 @@ This is a simple and responsive web application for extracting handwritten or pr
   - Italian
 - Displays a preview of the uploaded image
 - Extracts and displays text using OCR.space
-- Copy extracted text to clipboard
+- Copy extracted text to the clipboard
 - Responsive UI with Bootstrap 5
 - Font Awesome icons for better UX
 
@@ -36,7 +35,7 @@ cd handwritten-text-extraction
 
 ### 2. Open `index.html`
 
-You can run the project by simply opening the `index.html` file in your browser.
+You can run the project by opening the `index.html` file in your browser.
 
 > ✅ **Note**: No additional setup or server is required.
 
@@ -103,4 +102,10 @@ You can test the app using:
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This open-source project is available under the [MIT License](LICENSE).
+
+## Team
+Praveen K
+Priya
+Prajwal
+Pratham
